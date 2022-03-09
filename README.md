@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @economatic
+- 👋 Hi, I’m Marcio Ventura
 - 👀 I’m interested in economics studies and statistical causalities
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on intelligent solutions and research 
